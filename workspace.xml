@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d852ae7-2f8d-412d-b68c-4825321172b9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\Server\apache-maven-3.6.3" />
+        <option name="localRepository" value="D:\Server\apache-maven-3.6.3\MavenRepositories" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Server\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2viBM96eLlkxlRfVtRuviFdUYah" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringbootSchemaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/实训课/河南工程学院实训/HNGC01-SPRINGBOOT&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="SpringbootSchemaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="cl258043101" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cl.SpringbootSchemaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d852ae7-2f8d-412d-b68c-4825321172b9" name="Changes" comment="" />
+      <created>1744617968079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744617968079</updated>
+      <workItem from="1744617970119" duration="1384000" />
+      <workItem from="1744956489273" duration="1000" />
+      <workItem from="1744956633826" duration="127000" />
+      <workItem from="1744956771326" duration="5300000" />
+      <workItem from="1745195328414" duration="3000" />
+      <workItem from="1745195341047" duration="1307000" />
+      <workItem from="1745224697238" duration="96000" />
+      <workItem from="1745226041018" duration="66000" />
+      <workItem from="1745546529136" duration="399000" />
+      <workItem from="1745547203370" duration="2021000" />
+      <workItem from="1745549291439" duration="381000" />
+      <workItem from="1745549682428" duration="118000" />
+      <workItem from="1745549808107" duration="72000" />
+      <workItem from="1745550011038" duration="317000" />
+      <workItem from="1745550335703" duration="386000" />
+      <workItem from="1745550730864" duration="333000" />
+      <workItem from="1745551072865" duration="4685000" />
+      <workItem from="1745581594136" duration="4707000" />
+      <workItem from="1745589177122" duration="248000" />
+      <workItem from="1745589434423" duration="90000" />
+      <workItem from="1745589531265" duration="244000" />
+      <workItem from="1745589782550" duration="137000" />
+      <workItem from="1745589929473" duration="84000" />
+      <workItem from="1745590020636" duration="165000" />
+      <workItem from="1745590191626" duration="199000" />
+      <workItem from="1745590402933" duration="297000" />
+      <workItem from="1745590710260" duration="54000" />
+      <workItem from="1745728740779" duration="612000" />
+      <workItem from="1745802897808" duration="24000" />
+      <workItem from="1745805809355" duration="4705000" />
+      <workItem from="1745820912189" duration="1530000" />
+      <workItem from="1745976464895" duration="12405000" />
+      <workItem from="1746492377394" duration="911000" />
+      <workItem from="1746518810528" duration="3304000" />
+      <workItem from="1746579299931" duration="15415000" />
+      <workItem from="1746665412229" duration="448000" />
+      <workItem from="1746665912919" duration="3495000" />
+      <workItem from="1746873934308" duration="251000" />
+      <workItem from="1746874227707" duration="35000" />
+      <workItem from="1746883481244" duration="165000" />
+      <workItem from="1746883653899" duration="325000" />
+      <workItem from="1746883986176" duration="343000" />
+      <workItem from="1746892742101" duration="9000" />
+      <workItem from="1747289140385" duration="3617000" />
+      <workItem from="1747388198041" duration="1515000" />
+      <workItem from="1747620079710" duration="10080000" />
+      <workItem from="1747646561891" duration="597000" />
+      <workItem from="1747732880038" duration="1158000" />
+      <workItem from="1747794126523" duration="2506000" />
+      <workItem from="1747811076735" duration="7928000" />
+      <workItem from="1747961625076" duration="622000" />
+      <workItem from="1747968322946" duration="4982000" />
+      <workItem from="1748222879621" duration="73000" />
+      <workItem from="1748223715098" duration="51000" />
+      <workItem from="1748950624208" duration="4858000" />
+      <workItem from="1748995944814" duration="12000" />
+      <workItem from="1749025302757" duration="1537000" />
+      <workItem from="1749034825206" duration="7236000" />
+      <workItem from="1749085904366" duration="159000" />
+      <workItem from="1749476159123" duration="49000" />
+      <workItem from="1749992661426" duration="1127000" />
+      <workItem from="1749997918376" duration="1044000" />
+      <workItem from="1754030667230" duration="190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
