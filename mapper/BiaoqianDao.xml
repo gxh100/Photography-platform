@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.cl.dao.BiaoqianDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.cl.entity.BiaoqianEntity" id="biaoqianMap">
+        <result property="biaoqian" column="biaoqian"/>
+    </resultMap>
+
+    <select id="selectListView"
+		resultType="com.cl.entity.view.BiaoqianView" >
+
+		SELECT  biaoqian.* FROM biaoqian  biaoqian 	        
+        <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+	<select id="selectView"
+		resultType="com.cl.entity.view.BiaoqianView" >
+		SELECT * FROM biaoqian  biaoqian <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+
+
+
+</mapper>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.cl.dao.ToupiaoxinxiDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.cl.entity.ToupiaoxinxiEntity" id="toupiaoxinxiMap">
+        <result property="huodongmingcheng" column="huodongmingcheng"/>
+        <result property="kaishishijian" column="kaishishijian"/>
+        <result property="jieshushijian" column="jieshushijian"/>
+        <result property="piaoshu" column="piaoshu"/>
+        <result property="toupiaoshijian" column="toupiaoshijian"/>
+        <result property="yonghuzhanghao" column="yonghuzhanghao"/>
+        <result property="yonghuxingming" column="yonghuxingming"/>
+        <result property="sheyingshizhanghao" column="sheyingshizhanghao"/>
+        <result property="sheyingshixingming" column="sheyingshixingming"/>
+        <result property="crossuserid" column="crossuserid"/>
+        <result property="crossrefid" column="crossrefid"/>
+    </resultMap>
+
+    <select id="selectListView"
+		resultType="com.cl.entity.view.ToupiaoxinxiView" >
+
+		SELECT  toupiaoxinxi.* FROM toupiaoxinxi  toupiaoxinxi 	        
+        <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+	<select id="selectView"
+		resultType="com.cl.entity.view.ToupiaoxinxiView" >
+		SELECT * FROM toupiaoxinxi  toupiaoxinxi <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+
+
+
+</mapper>
